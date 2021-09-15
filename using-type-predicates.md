@@ -32,6 +32,7 @@ export function logPerson(person: Person) {
     }
     console.log(` - ${person.name}, ${person.age}, ${additionalInformation}`);
 }
+```
 
 ## Solution
 
