@@ -63,7 +63,7 @@ export function logPerson(person: Person) {
 ```
 
 
-```ts
+
 
 ## Full Problem
 
