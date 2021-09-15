@@ -65,7 +65,7 @@ export function logPerson(person: Person) {
 ```ts
 
 ## Full Problem
-/*
+
 
 Intro:
 
@@ -80,7 +80,7 @@ Exercise:
     Figure out how to help TypeScript understand types in
     this situation and apply necessary fixes.
 
-*/
+```ts
 
 interface User {
     type: 'user';
